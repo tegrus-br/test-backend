@@ -22,12 +22,13 @@ Precisamos que crie uma api que possamos listar, cadastrar, deletar e atualizar 
 
 No momento do cadastro do personagem, o serviço deve buscar os episódios que ele participou.
 Para buscar a informações dos episódios, existe uma API que lista todos os episódios do seriado e os respectivos participantes.
+
 Link da documentação: https://breakingbadapi.com/documentation.
 
 **Regras de negócio** 
 
 * O nome da personagem deve ser único.
-* A listagem dos personagens deve ser ordenada por nome
+* A listagem dos personagens deve ser ordenada por nome.
 * A lista dada foi um exemplo, a API tem que estar pronta para receber mais nomes de personagens.
 
 
