@@ -1,6 +1,6 @@
 # :movie_camera: Desafio
 
-Nossos devs gostam muito de assistir seriado principalmente o Breaking Bad :test_tube: :alembic:. 
+Nossos devs gostam muito de assistir seriado. Principalmente o Breaking Bad :test_tube: :alembic:. 
 
 **Exemplo do nome de alguns personagens:**
 
