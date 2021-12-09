@@ -38,12 +38,5 @@ Link da documentação: https://breakingbadapi.com/documentation.
 * Quanto mais simples for para realizar o deploy, melhor!
 * Sinta-se a vontade para usar qualquer framework e ferramentas que se sentir a vontade a única restrição é a linguagem de programação que deve ser **Node.js**
 
-## O que iremos avaliar
 
-Nosso time irá avaliar:
-- **Desempenho**
-- **Testes**
-- **Manutenabilidade**
-- **Separação de responsabilidades**
-- **Engenharia de software**
 
