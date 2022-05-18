@@ -16,7 +16,7 @@ Nossos devs gostam muito de assistir seriado. Principalmente o Breaking Bad :tes
 
 ### 1. Crie um serviço
 
-Precisamos que crie uma api que possamos listar, cadastrar, deletar e atualizar o nome dos personagens do Seriado.
+Precisamos que crie uma api que possamos listar, cadastrar, deletar os personagens do Seriado.
 
 ### 2. Consultar um endpoint
 
@@ -27,7 +27,6 @@ Link da documentação: https://breakingbadapi.com/documentation.
 
 **Regras de negócio** 
 
-* O nome da personagem deve ser único.
 * A listagem dos personagens deve ser ordenada por nome.
 * A lista dada foi um exemplo, a API tem que estar pronta para receber mais nomes de personagens.
 
