@@ -35,7 +35,7 @@ Link da documentação: https://breakingbadapi.com/documentation.
 
 * Crie uma documentação e explique como como rodar localmente e também como realizar o deploy.
 * Quanto mais simples for para realizar o deploy, melhor!
-* Sinta-se a vontade para usar qualquer framework e ferramentas que se sentir a vontade a única restrição é a linguagem de programação que deve ser **Node.js**
+* Deve-se utilizar **Node.js** com framework **Nest.js**.
 
 
 
